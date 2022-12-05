@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto&display=swap');
+
+body{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    font-size: medium;
+    }
+header{
+    background-color: black;
+    background-size:cover;
+
+    }
+
+.logo{
+    width: 30%;
+    padding-right: 40px;
+    padding-left: 6px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    }
+
+.banner{
+    background-image: url(../images/banner.jpg);
+     background-size: cover;
+    background-repeat: none;
+    background-attachment: fixed;
+    width: 100%;
+    background-position: top center; 
+    display: inline-block;
+    
+
+    } 
+
+.text{ 
+    color:rgb(76, 134, 215);
+   background-color: transparent;
+    text-align: center;
+  font-size: 50px;
+  line-height: 30px;
+  font-weight: bold;
+  margin-top: 50px;
+  line-height: 50px;
+   } 
+
+
+.button{
+    background-color: chocolate;
+    color:white;
+    border-radius: 10%;
+    margin-top: 30px;
+
+}
+
+.h2{
+    color:skyblue;
+    font-weight: bold;
+}
+
+.form{
+    background-color: darkred;
+    color: white;
+    margin-top: 30px;
+}
+.article1{
+    width: 90%;
+    border: 40%;
+    background-color: transparent;
+    display: block;
+    border: 1px solid grey;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    margin-top: 10%;
+}
+.img1{
+    width: 100%;
+    margin: left 20px;
+    margin-bottom: 10%;
+}
+
+
+
+
+
+footer{
+    background-color: rgb(33, 128, 206);
+    }
+
+.p{
+   margin-bottom: 10%;
+}
+
+
+
+
